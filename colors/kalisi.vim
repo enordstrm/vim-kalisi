@@ -545,7 +545,7 @@ else
     hi Directory cterm=bold ctermfg=25
     hi Keyword ctermfg=70
     hi Title cterm=bold ctermfg=25
-    hi NonText ctermbg=253 ctermfg=16
+    "hi NonText ctermbg=253 ctermfg=16
     hi Conceal ctermbg=253 ctermfg=236
     hi DiffAdd ctermbg=194
     hi DiffChange ctermbg=254
