@@ -504,7 +504,7 @@ else
 
   " 256 Color Terminal (light) ################################################
   if &t_Co > 255
-    hi Normal ctermbg=255 ctermfg=16
+    "hi Normal ctermbg=255 ctermfg=16  " don't mess with my background
     hi Comment ctermfg=110
     hi CommentURL cterm=underline ctermfg=75
     hi CommentEmail cterm=underline ctermfg=75
